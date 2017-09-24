@@ -25,4 +25,5 @@ body {
 
 .section {
 	padding-top: 125px;
-}
+} input[type=number]{
+border:none;} input[type=time]{border:none;}
